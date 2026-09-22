@@ -4,5 +4,5 @@ Backend and DevOps-focused dev tools, starter kits, and self-hosting products â€
 
 # Learn More
 
- [https://github.com/usmandev24](https://github.com/usmandev24)
+ [https://github.com/UsmanDev24](https://github.com/UsmanDev24)
 
